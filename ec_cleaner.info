@@ -47,3 +47,4 @@ features[disable_modules][] = schemaorg_recipe
 features[disable_modules][] = uuid_services_example
 features[disable_modules][] = variable_example
 features[features_api][] = api:2
+project status url = https://github.com/energycircle/ec_cleaner.git
